@@ -24,6 +24,7 @@
       nav:false,
       margin:0,
       navigation : false, 
+      dots: true,
       responsive:{ 
           1200:{
               items:5
