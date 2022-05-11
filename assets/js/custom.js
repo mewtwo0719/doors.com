@@ -26,15 +26,22 @@
       navigation : false, 
       dots: true,
       responsive:{ 
-          1200:{
-              items:5
+          1400:{
+            items: 5
           },
-          992:{
-              items:3
-          },
+          // 1350: {
+          //   items: 4
+          // },
+          // 992:{
+          //     items:3
+          // },
+          800:{
+            items:3
+        },
           760:{
             items:2
         }
+        
       }
   });
 

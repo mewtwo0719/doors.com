@@ -1,0 +1,27 @@
+*****ERRORS************
+
+-When screen size have bigger height, image doesn't fit on the right side (mobile devices)
+
+
+
+*****TO CHANGE*********
+
+-Fonts, border sizes, shadows
+-Get logo version for smaller devices
+-Get quote .png from design
+-wow effect slide side
+-../assets change
+-margins and paddings on all sections
+-first owl carousel cards add fixed width
+-smart intercom products align center
+-remove last hr on mobile and fix margins/paddings
+-language button center on mobile
+-change background for mobile versions
+
+*****TO ADD************
+
+-On testimonials dots
+-Multilanguage support script
+
+
+
